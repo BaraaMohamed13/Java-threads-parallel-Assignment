@@ -1,0 +1,16 @@
+Write a program to create a list with 9000000 elements and invokes a method named parallelAssignment to assign a random value to each element in this array. In addition, create a parallel method for each of the following:
+
+
+	
+	
+sum the elements of the list in parallel
+	
+	
+	
+sort the elements of the list in parallel
+	
+	
+	
+find the minimum and maximum element in this list
+	
+Calculate the execution time of each method
